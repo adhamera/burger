@@ -4,3 +4,5 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 Whenever a user submits a burger's name, your app will display -- waiting to be devoured.
 
 ![Demo](./BurgerApp.gif)
+
+App deployed via heroku: https://warm-savannah-72051.herokuapp.com/
