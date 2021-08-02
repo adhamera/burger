@@ -3,4 +3,4 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 Whenever a user submits a burger's name, your app will display -- waiting to be devoured.
 
-![Demo](./src/reactport.gif)
+![Demo](./BurgerApp.gif)
