@@ -6,3 +6,5 @@ Whenever a user submits a burger's name, your app will display -- waiting to be 
 ![Demo](./BurgerApp.gif)
 
 App deployed via heroku: https://warm-savannah-72051.herokuapp.com/
+
+![Screenshot of Application] 
