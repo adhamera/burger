@@ -7,4 +7,4 @@ Whenever a user submits a burger's name, your app will display -- waiting to be 
 
 App deployed via heroku: https://warm-savannah-72051.herokuapp.com/
 
-![Screenshot of Application] (https://github.com/adhamera/burger/blob/main/deployment.png)
+(https://github.com/adhamera/burger/blob/main/deployment.png)
